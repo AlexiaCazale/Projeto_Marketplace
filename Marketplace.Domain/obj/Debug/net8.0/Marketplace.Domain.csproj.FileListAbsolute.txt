@@ -1,0 +1,12 @@
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.deps.json
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.AssemblyReference.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfoInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfo.cs
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\refint\Marketplace.Domain.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Domain\obj\Debug\net8.0\ref\Marketplace.Domain.dll

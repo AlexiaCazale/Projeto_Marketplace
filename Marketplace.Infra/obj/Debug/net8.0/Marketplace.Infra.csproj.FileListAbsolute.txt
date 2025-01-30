@@ -1,0 +1,15 @@
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\bin\Debug\net8.0\Marketplace.Infra.deps.json
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\bin\Debug\net8.0\Marketplace.Infra.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\bin\Debug\net8.0\Marketplace.Infra.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\bin\Debug\net8.0\Marketplace.Domain.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\bin\Debug\net8.0\Marketplace.Domain.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.csproj.AssemblyReference.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.AssemblyInfoInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.AssemblyInfo.cs
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.csproj.CoreCompileInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketpl.F0502182.Up2Date
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\refint\Marketplace.Infra.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\Marketplace.Infra.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.Infra\obj\Debug\net8.0\ref\Marketplace.Infra.dll

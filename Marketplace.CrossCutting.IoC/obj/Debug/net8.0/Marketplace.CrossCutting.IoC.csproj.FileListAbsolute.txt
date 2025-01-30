@@ -1,0 +1,17 @@
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.CrossCutting.IoC.deps.json
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.CrossCutting.IoC.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.CrossCutting.IoC.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.Domain.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.Infra.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.Domain.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\bin\Debug\net8.0\Marketplace.Infra.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketpl.4C9EFAEE.Up2Date
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\refint\Marketplace.CrossCutting.IoC.dll
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\Marketplace.CrossCutting.IoC.pdb
+C:\Users\alexia.cazale\source\repos\Marketplace\Marketplace.CrossCutting.IoC\obj\Debug\net8.0\ref\Marketplace.CrossCutting.IoC.dll
